@@ -73,7 +73,9 @@ body {
     height: 100%;
     width: 100%;
     box-sizing: border-box;
-}
+}Em que ano o Brasil conquistou sua ultima copa?
+
+
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
@@ -82,7 +84,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(218, 46, 46);
     color: white;
     position: fixed;
     bottom: 0;
