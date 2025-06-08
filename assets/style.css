@@ -1,7 +1,7 @@
 :root {
-    --text-color:rgb(235, 17, 235);
-    --card-front-color: #eb0606;
-    --card-back-color: #f7f2f2;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
@@ -73,9 +73,7 @@ body {
     height: 100%;
     width: 100%;
     box-sizing: border-box;
-}Em que ano o Brasil conquistou sua ultima copa?
-
-
+}
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
@@ -84,8 +82,8 @@ body {
 }
 
 footer {
-    background-color: rgb(238, 238, 238);
-    color: rgb(216, 69, 179);
+    background-color: black;
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
